@@ -11,7 +11,6 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/xtaci/kcp-go/v5 v5.5.12
 	github.com/xtaci/smux v1.5.12
-	golang.org/x/crypto v0.0.0-20200128174031-69ecbb4d6d5d
-	golang.org/x/net v0.0.0-20200114155413-6afb5195e5aa
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 )
